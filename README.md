@@ -2,7 +2,7 @@
 
 <div>  
   <a href="https://yu-geun-chan.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
   </a>
   <a href="https://velog.io/@da5105/posts">
     <img src="https://img.shields.io/badge/Visit%20My%20Velog-282828?style=flat-square&logo=velog&logoColor=FFFFFF&color=282828&labelColor=282828" />
