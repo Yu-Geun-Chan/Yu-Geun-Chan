@@ -39,11 +39,11 @@
 <p align="center">
   <a href="https://github.com/Yu-Geun-Chan">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yu-Geun-Chan&layout=compact&show_icons=true&theme=tokyonight" 
-      style="width:59%;"
+      style="width:56%;"
       alt="GitHub Stat"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Geun-Chan&layout=compact&show_icons=true&theme=tokyonight" 
-      style="width:39%;"
+      style="width:42%;"
       alt="Most Used Languages"
     />
   </a>
