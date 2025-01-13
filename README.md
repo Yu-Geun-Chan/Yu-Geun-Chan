@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Yu-Geun-Chan&theme=default" 
+    <img src="https://streak-stats.demolab.com?user=Yu-Geun-Chan&theme=tokyonight&cache_seconds=86400" 
       style="width: 98%;"
       alt="GitHub Streak"
     />
