@@ -50,11 +50,11 @@
   </a>
 </p>
 
-<h2>💡 GitHub Streak 💡</h2>
+<h2>💡 GitHub Contribution Graph 💡</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Yu-Geun-Chan&theme=tokyonight&cache_seconds=86400" 
+  <a href="https://github.com/Yu-Geun-Chan/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yu-Geun-Chan&theme=tokyo-night" 
       style="width: 98%;"
       alt="GitHub Streak"
     />
