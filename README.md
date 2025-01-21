@@ -28,6 +28,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&amp;logo=Thymeleaf&amp;logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python)
+![React](https://img.shields.io/badge/React-2496ED?style=flat-square&amp;logo=React&amp;logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white)
