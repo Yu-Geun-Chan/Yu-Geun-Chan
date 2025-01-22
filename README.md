@@ -45,7 +45,7 @@
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Geun-Chan&layout=compact&show_icons=true&theme=tokyonight" 
       style="width:41%;"
-      alt="Most Used Languages"
+      alt="Most Used Language"
     />
   </a>
 </p>
