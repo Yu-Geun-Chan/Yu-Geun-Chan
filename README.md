@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/Yu-Geun-Chan/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yu-Geun-Chan&theme=tokyo-night" 
-      style="width: 98%;"
+      style="width: 95%;"
       alt="GitHub Streak"
     />
   </a>
